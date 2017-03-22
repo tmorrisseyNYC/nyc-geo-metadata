@@ -27,15 +27,13 @@ Geometry Type: raster<br><br>![image](https://github.com/CityOfNewYork/nyc-geo-m
 | -- | -- | -- | -- | -- | -- |
 |1924|Unknown|New York City|Unknown|Acquired from the Department of City Planning. Manually georeferenced using visible locations between the 1951 images and current orthophotography.|No
 |1951|Unknown|New York City|Unknown|Acquired from the Department of Records Municipal Archives. Manually georeferenced using visible locations between the 1951 images and current orthophotography.|No
-|1996.0|1'|New York City|April: 1" = 800', entire city <br> June: 1"=1000', Manhattan|Researching|No
-|2001.0|6''|Partial (Manhattan, Staten Island)|April 14: 1”=800’ – used for plan/topo update in Manhattan and Staten Island<br>July 3, & July 21:  1”=1000'– used for Manhattan orthos
-|Researching|No
-|2002.0|6''|Partial (Bronx, Brooklyn, Queens)|April 4: 1"=800'  – used for plan/topo update for Bronx/Brooklyn/Queens|Researching|No
-|2004.0|6''|New York City|April 19-20: Staten Island<br>April 29: Manhattan (2/3)<br>April 30: Manhattan (1/3)<br>April 24:Bronx, Brooklyn, Queens (2/3)<br>April 25:Bronx, Brooklyn, Queens (2/3)<br>May 4:Bronx, Brooklyn, Queens – re-flight of rejected flight strips
-|Selective true orthoimagery. Manhattan full true orthoimagery;  Bronx, Brooklyn, Queens, Staten Island true orthos for buildings greater than six stories.|No
-|2006.0|6''|New York City|April: Bronx, Brooklyn, Queens, Staten Island <br> June: Manhattan|Selective true orthoimagery. Manhattan full true orthoimagery;  Bronx, Brooklyn, Queens, Staten Island true orthos for buildings greater than six stories.|No
-|2008.0|6''|New York City|March 10 - May 14: Bronx, Brooklyn, Queens, Staten Island <br>June: Manhattan|Selective true orthoimagery. Manhattan full true orthoimagery;  Bronx, Brooklyn, Queens, Staten Island true orthos for buildings greater than five stories.|Yes
-|2010.0|6''|New York City|April 1 - April 10: Bronx, Brooklyn, Queens, Staten Island <br>June 15: Manhattan|Selective true orthoimagery. Manhattan full true orthoimagery;  Bronx, Brooklyn, Queens, Staten Island true orthos for buildings greater than five stories.|Yes
-|2012.0|6''|New York City|March 30 - April 6: Bronx, Brooklyn, Queens, Staten Island <br>June 15 -16 and June 20: Manhattan|Selective true orthoimagery. Manhattan full true orthoimagery;  Bronx, Brooklyn, Queens, Staten Island true orthos for buildings greater than five stories.|Yes
-|2014.0|6''|New York City|April 1 - April 3: Bronx, Brooklyn, Queens, Staten Island <br>April 25: Water <br>June 1: Manhattan|Full true orthoimagery|Yes
-|2016.0||New York City|||
+|1996|1'|New York City|April: 1" = 800', entire city <br> June: 1"=1000', Manhattan||No
+|2001|6''|Partial (Manhattan, Staten Island)|April 14: 1”=800’ – used for plan/topo update in Manhattan and Staten Island<br>July 3, & July 21:  1”=1000'– used for Manhattan orthos||No
+|2002|6''|Partial (Bronx, Brooklyn, Queens)|April 4: 1"=800'  – used for plan/topo update for Bronx/Brooklyn/Queens||No
+|2004|6''|New York City|April 19-20: Staten Island<br>April 29: Manhattan (2/3)<br>April 30: Manhattan (1/3)<br>April 24: Bronx, Brooklyn, Queens (2/3)<br>April 25: Bronx, Brooklyn, Queens (2/3)<br>May 4: Bronx, Brooklyn, Queens – re-flight of rejected flight strips|Selective true orthoimagery. Manhattan full true orthoimagery;  Bronx, Brooklyn, Queens, Staten Island true orthos for buildings greater than six stories.|No
+|2006|6''|New York City|April: Bronx, Brooklyn, Queens, Staten Island <br> June: Manhattan|Selective true orthoimagery. Manhattan full true orthoimagery;  Bronx, Brooklyn, Queens, Staten Island true orthos for buildings greater than six stories.|No
+|2008|6''|New York City|March 10 - May 14: Bronx, Brooklyn, Queens, Staten Island <br>June: Manhattan|Selective true orthoimagery. Manhattan full true orthoimagery;  Bronx, Brooklyn, Queens, Staten Island true orthos for buildings greater than five stories.|Yes
+|2010|6''|New York City|April 1 - April 10: Bronx, Brooklyn, Queens, Staten Island <br>June 15: Manhattan|Selective true orthoimagery. Manhattan full true orthoimagery;  Bronx, Brooklyn, Queens, Staten Island true orthos for buildings greater than five stories.|Yes
+|2012|6''|New York City|March 30 - April 6: Bronx, Brooklyn, Queens, Staten Island <br>June 15 -16 and June 20: Manhattan|Selective true orthoimagery. Manhattan full true orthoimagery;  Bronx, Brooklyn, Queens, Staten Island true orthos for buildings greater than five stories.|Yes
+|2014|6''|New York City|April 1 - April 3: Bronx, Brooklyn, Queens, Staten Island <br>April 25: Water <br>June 1: Manhattan|Full true orthoimagery|Yes
+|2016||New York City|||Yes
